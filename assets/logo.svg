@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" aria-labelledby="title">
+  <title>FixRight logo</title>
+  <rect width="120" height="120" rx="18" fill="#0078d4"/>
+  <g transform="translate(18,18)" fill="#fff">
+    <path d="M28 6c-1.1 0-2 .9-2 2v6.6l-6.3 6.3a8 8 0 101.4 1.4L27.4 16H34c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2H28z" opacity="0.95"/>
+    <text x="8" y="54" font-family="Verdana,Arial" font-size="22" font-weight="700">FR</text>
+  </g>
+</svg>
